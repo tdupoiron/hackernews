@@ -1,4 +1,4 @@
-# Nuxt Hacker News
+# Nuxt Hacker News test
 
 Hacker News clone built with [Nuxt](https://nuxt.com).
 
